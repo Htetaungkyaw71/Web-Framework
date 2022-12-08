@@ -1,0 +1,27 @@
+{
+  "name": "web-framework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "wds --node-resolve --watch --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Htetaungkyaw71/Web-Framework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Htetaungkyaw71/Web-Framework/issues"
+  },
+  "homepage": "https://github.com/Htetaungkyaw71/Web-Framework#readme",
+  "dependencies": {
+    "snabbdom": "^3.5.1"
+  },
+  "devDependencies": {
+    "@web/dev-server": "^0.1.35"
+  }
+}
